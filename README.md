@@ -1,4 +1,4 @@
-# Personal-Web-Portfolio-Website
+# Personal-Web-Portfolio
 
 A modern and responsive personal portfolio website built to showcase my skills, projects, and professional journey as a developer. This project is developed using the MERN ecosystem with a focus on clean UI, fast performance, and smooth user experience. The portfolio includes sections like About Me, Skills, Projects, Resume, Contact, and social links, allowing visitors to explore my work and connect with me easily.
 
