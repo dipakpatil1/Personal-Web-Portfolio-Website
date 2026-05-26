@@ -6,26 +6,26 @@ The frontend is developed using React.js for creating dynamic and reusable UI co
 
 Features included in this project:
 
-Responsive modern UI/UX design
-Dynamic project showcase section
-Contact form with backend integration
-Smooth navigation and animations
-Resume download option
-Social media integration
-Fast and optimized performance
-Clean and scalable code structure
+Responsive modern UI/UX design,
+Dynamic project showcase section,
+Contact form with backend integration,
+Smooth navigation and animations,
+Resume download option,
+Social media integration,
+Fast and optimized performance,
+Clean and scalable code structure.
 
 Tech Stack:
 
-React.js
-Node.js
-Express.js
-MongoDB
-JavaScript
-HTML5
-CSS3
-Tailwind CSS / Bootstrap (if used)
-Git & GitHub
+React.js,
+Node.js,
+Express.js,
+MongoDB,
+JavaScript,
+HTML5,
+CSS3,
+Tailwind CSS / Bootstrap (if used),
+Git & GitHub.
 
 This portfolio represents my development skills, creativity, and passion for building modern web applications.
 
@@ -40,23 +40,23 @@ A modern and fully responsive personal portfolio website developed to showcase m
 The portfolio includes multiple sections such as Home, About, Skills, Projects, Contact, and Social Links, allowing visitors to explore my work and connect with me easily. The website is designed with a clean UI, smooth animations, responsive layouts, and optimized performance across all devices.
 
 Features
-Modern and responsive user interface
-Dynamic project showcase section
-Smooth scrolling and interactive animations
-Contact form integration
-Mobile-friendly design
-Reusable React components
-Backend integration using Node.js and Express.js
-Clean and scalable folder structure
-Tech Stack
-React.js
-Node.js
-Express.js
-JavaScript
-HTML5
-CSS3
-Tailwind CSS / Bootstrap
-Git & GitHub
-Purpose of the Project
+Modern and responsive user interface,
+Dynamic project showcase section,
+Smooth scrolling and interactive animations,
+Contact form integration,
+Mobile-friendly design,
+Reusable React components,
+Backend integration using Node.js and Express.js,
+Clean and scalable folder structure,
+Tech Stack,
+React.js,
+Node.js,
+Express.js,
+JavaScript,
+HTML5,
+CSS3,
+Tailwind CSS / Bootstrap,
+Git & GitHub,
+Purpose of the Project.
 
 The main purpose of this project is to create a professional online presence where I can showcase my development skills, personal projects, and technical expertise. This portfolio reflects my passion for web development and modern UI design.
